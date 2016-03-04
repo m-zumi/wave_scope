@@ -1,2 +1,4 @@
-# wave_scope
+Wave Scope
+==========
+
 Wave Scope Plugin for GIMP
